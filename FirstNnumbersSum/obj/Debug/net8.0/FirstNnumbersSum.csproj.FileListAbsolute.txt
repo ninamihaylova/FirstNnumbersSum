@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\FirstNnumbersSum\FirstNnumbersSum\bin\Debug\net8.0\FirstNnumbersSum.exe
+C:\Users\ninag\RiderProjects\FirstNnumbersSum\FirstNnumbersSum\bin\Debug\net8.0\FirstNnumbersSum.deps.json
+C:\Users\ninag\RiderProjects\FirstNnumbersSum\FirstNnumbersSum\bin\Debug\net8.0\FirstNnumbersSum.runtimeconfig.json
+C:\Users\ninag\RiderProjects\FirstNnumbersSum\FirstNnumbersSum\bin\Debug\net8.0\FirstNnumbersSum.dll
+C:\Users\ninag\RiderProjects\FirstNnumbersSum\FirstNnumbersSum\bin\Debug\net8.0\FirstNnumbersSum.pdb
+C:\Users\ninag\RiderProjects\FirstNnumbersSum\FirstNnumbersSum\obj\Debug\net8.0\FirstNnumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\FirstNnumbersSum\FirstNnumbersSum\obj\Debug\net8.0\FirstNnumbersSum.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\FirstNnumbersSum\FirstNnumbersSum\obj\Debug\net8.0\FirstNnumbersSum.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\FirstNnumbersSum\FirstNnumbersSum\obj\Debug\net8.0\FirstNnumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\FirstNnumbersSum\FirstNnumbersSum\obj\Debug\net8.0\FirstNnumbersSum.dll
+C:\Users\ninag\RiderProjects\FirstNnumbersSum\FirstNnumbersSum\obj\Debug\net8.0\refint\FirstNnumbersSum.dll
+C:\Users\ninag\RiderProjects\FirstNnumbersSum\FirstNnumbersSum\obj\Debug\net8.0\FirstNnumbersSum.pdb
+C:\Users\ninag\RiderProjects\FirstNnumbersSum\FirstNnumbersSum\obj\Debug\net8.0\FirstNnumbersSum.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\FirstNnumbersSum\FirstNnumbersSum\obj\Debug\net8.0\ref\FirstNnumbersSum.dll
